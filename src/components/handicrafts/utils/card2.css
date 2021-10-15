@@ -1,0 +1,143 @@
+.heading-two
+{
+    margin-top: -3em;
+    margin-bottom: 1em;
+    text-decoration: underline;
+    color: floralwhite;
+}
+
+.card-left-handicraft-two
+{
+    width: 28rem;
+    margin-left: 5em;
+    margin-bottom: 6em;
+    padding-top: 4em;
+}
+
+.card-right-handicraft-two
+{
+    width: 28rem;
+    margin-left: 46em;
+    margin-bottom: 6em;
+    margin-top: -22.6em;
+}
+
+.card-body-two
+{
+    background-image: url('../images/artistic\ 1.jpg');
+    height:16em;
+    margin-top: -4.4em;
+}
+
+.card-body-two-1
+{
+    background-image: url('../images/artistic\ 2.jpg');
+    height:16em;
+}
+
+.card-body-two-2
+{
+    background-image: url('../images/artistic\ 3.jpg');
+    height:16em;
+    margin-top: -6em;
+}
+
+.card-body-two-3
+{
+    background-image: url('../images/artistic\ 4.jpg');
+    height:16em;
+}
+
+
+.card-title-two
+{
+    color:#ffe19b;
+    margin-bottom: 30px;
+    margin-top: 0.1em;
+}
+
+.card-title-two-1
+{
+    color:rgb(255, 210, 155);
+    margin-bottom: 30px;
+    padding-top: 8px;
+}
+
+.card-title-two-2
+{
+    color:goldenrod;
+    margin-bottom: 30px;
+    margin-top: 0.1em;
+}
+
+.card-title-two-3
+{
+    color:black;
+    margin-bottom: 30px;
+}
+
+.card-text-two
+{
+    color:gold;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-two-1
+{
+    color:rgb(255, 123, 0);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-two-2
+{
+    color:blanchedalmond;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-two-3
+{
+    color:azure;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.btn-left
+{
+    margin-right: 14.4em;
+}
+
+.btn-down
+{
+    margin-top: 2em;
+    background-color: white;
+    margin-left: -1em;
+    margin-right: -1em;
+    height: 3.13em;
+}
+
+.btn-down-1
+{
+    margin-top: 2.7em;
+    background-color: white;
+    height: 3.13em;
+}
+
+.btn-down-2
+{
+    margin-top: 3.2em;
+    background-color: white;
+    height: 3.13em;
+}
+
+.button-explore
+{
+    margin-top: -30px;
+}
+
+.button-explore-1
+{
+    margin-top: -50px;
+}

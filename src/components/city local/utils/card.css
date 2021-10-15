@@ -1,0 +1,115 @@
+.card-left-local
+{
+    width: 24rem;
+    margin-left: 2em;
+    margin-bottom: 10em;
+    margin-top: 2em;
+    height:16em;
+}
+
+.card-middle-local
+{
+    width: 24rem;
+    margin-left: 28em;
+    margin-bottom: 10em;
+    margin-top: -26em;
+}
+
+.card-right-local
+{
+    width: 24rem;
+    margin-left: 54em;
+    margin-bottom: 10em;
+    margin-top: -26em;
+}
+
+.card-body-local
+{
+    background-image: url('../images/card 1.jpg');
+    height:16em;
+    background-position: center;
+}
+
+.card-body-local-1
+{
+    background-image: url('../images/card\ 2.jpg');
+    height:16em;
+}
+
+.card-body-local-2
+{
+    background-image: url('../images/card\ 3.jpg');
+    height:16em;
+}
+
+.card-body-local-3
+{
+    background-image: url('');
+    height:16em;
+}
+
+
+.card-title-local
+{
+    color: rgb(255, 215, 140);
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.card-title-local-1
+{
+    color:ivory;
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.card-title-local-2
+{
+    color:blanchedalmond;
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.card-text-local
+{
+    color:ghostwhite;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-local-1
+{
+    color:goldenrod;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-local-2
+{
+    color:blanchedalmond;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-link
+{
+    padding-right: 6em;
+    color:khaki;
+    text-decoration: none;
+    font-size: 1.4em;
+    font-weight: bolder;
+}
+
+.card-link-1
+{
+    padding-right: 7em;
+    color:coral;
+    text-decoration: none;
+    font-size: 1.4em;
+    font-weight: bolder;
+}
+
+.btn-group
+{
+    margin-top: -3.2em;
+}

@@ -1,0 +1,87 @@
+.card-left-home
+{
+    width: 28rem;
+    margin-left: 5em;
+    margin-bottom: 2em;
+    padding-top: 4em;
+}
+
+.card-right-home
+{
+    width: 28rem;
+    margin-left: 46em;
+    margin-bottom: 2em;
+    margin-top: -17.8em;
+}
+
+.card-body-home
+{
+    background-image: url('../images/beauty\ store\ card.jpg');
+    height:16em;
+}
+
+.card-body-home-1
+{
+    background-image: url('../images/fashion\ store\ card.jpg');
+    height:16em;
+}
+
+.card-body-home-2
+{
+    background-image: url('../images/signature\ handicraft\ card.jpg');
+    height:16em;
+}
+
+.card-body-home-3
+{
+    background-image: url('../images/fashion\ wear\ card.jpg');
+    height:16em;
+}
+
+
+.card-title-home
+{
+    color: rgb(216, 141, 2);
+    margin-bottom: 30px;
+}
+
+.card-title-home-1
+{
+    color:rgb(255, 210, 155);
+    margin-bottom: 30px;
+    padding-top: 8px;
+}
+
+.card-title-home-3
+{
+    color:black;
+    margin-bottom: 30px;
+}
+
+.card-text-home
+{
+    color:rgb(97, 60, 13);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-home-1
+{
+    color:rgb(255, 123, 0);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-home-2
+{
+    color:blanchedalmond;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-home-3
+{
+    color:azure;
+    font-size: 20px;
+    font-weight: bolder;
+}

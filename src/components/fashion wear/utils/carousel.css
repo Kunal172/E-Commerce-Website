@@ -1,0 +1,26 @@
+.banner
+{
+    max-height: 20em;
+}
+
+.carousel_1
+{
+    width:24em;
+    height: 20em;
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+.carousel_2
+{
+    margin-left: 27em;
+    margin-top: -20em;
+    margin-right: 26em;
+}
+
+.carousel_3
+{
+    margin-left: 55em;
+    margin-top: -20em;
+    margin-right: 1em;
+}

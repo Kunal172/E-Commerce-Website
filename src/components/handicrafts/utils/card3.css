@@ -1,0 +1,183 @@
+.card-left-handicraft-three
+{
+    width: 22em;
+    margin-left: 3em;
+    margin-bottom: 6em;
+    padding-top: 4em;
+}
+
+.card-right-handicraft-three
+{
+    width: 22em;
+    margin-left: 54em;
+    margin-bottom: 10em;
+    margin-top: -20em;
+}
+
+.card-body1-middle
+{
+    background-image: url('../images/treasure\ collection.jpg');
+    height:16em;
+    margin-top: -4.4em;
+    background-position:top;
+}
+
+.card-body-1-middle
+{
+    background-image: url('../images/endangered\ collection.jpg');
+    background-position:center;
+    height: 16em;
+    margin-top: -21.6em;
+}
+
+.card-body-2-middle
+{
+    background-image: url('../images/feel\ collection.jpg');
+    height:16em;
+    margin-top: -12em;
+    background-position:center;
+}
+
+.card-body-3-middle
+{
+    background-image: url('../images/continental\ collection.jpg');
+    height:16em;
+    margin-top: -22em;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+
+.card-title
+{
+    color: rgb(255, 136, 0);
+    margin-bottom: 30px;
+    margin-top: 0.1em;
+}
+
+.card-title-1
+{
+    color:floralwhite;
+    margin-bottom: 30px;
+    padding-top: 8px;
+}
+
+.card-title-2
+{
+    color:blanchedalmond;
+    margin-bottom: 30px;
+    margin-top: 0.1em;
+}
+
+.card-title-3
+{
+    color:black;
+    margin-bottom: 30px;
+}
+
+.card-text
+{
+    color:rgb(247, 247, 99);
+    font-size: 19px;
+    font-weight: bolder;
+    margin-top: -20px;
+    margin-bottom: 3em;
+}
+
+.card-text-1
+{
+    color:gainsboro;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-2
+{
+    color:rgb(255, 198, 113);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-3
+{
+    color:azure;
+    font-size: 20px;
+    font-weight: bolder;
+    width: 18em;
+}
+
+.btn-left
+{
+    margin-right: 14.4em;
+}
+
+.btn-down
+{
+    margin-top: 2em;
+    background-color: white;
+    margin-left: -1em;
+    margin-right: -1em;
+    height: 3.13em;
+}
+
+.btn-down-1
+{
+    margin-top: 2.7em;
+    background-color: white;
+    height: 3.13em;
+}
+
+.btn-down-2
+{
+    margin-top: 3.2em;
+    background-color: white;
+    height: 3.13em;
+}
+
+.button-explore
+{
+    margin-top: -30px;
+}
+
+.button-explore-1
+{
+    margin-top: 0px;
+}
+
+.card-3-left
+{
+    max-width: 18em;
+    margin-top:-2em;
+}
+
+.card-3-right
+{
+    max-width: 18em;
+    margin-left: 55em;
+}
+
+.card-body-middle
+{
+    background-image: url('../images/indigenous\ collection.jpg');
+    height: 37em;
+    margin-top: -43em;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 25em;
+    margin-left: 26.8em;
+    margin-bottom: 4em;
+}
+
+.card-title-middle
+{
+    /* padding-bottom: 20px; */
+    color:blanchedalmond;
+    padding-top: 8em;
+}
+
+.card-text-middle
+{
+    color:orangered;
+    font-size: 20px;
+    font-weight: bolder;
+}

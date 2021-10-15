@@ -1,0 +1,29 @@
+.banner
+{
+    max-height: 20em;
+}
+
+.carousel_1_handicraft
+{
+    width:24em;
+    height: 20em;
+    margin-top: 2em;
+    margin-left: 1em;
+    height: 14em;
+}
+
+.carousel_2_handicraft
+{
+    margin-left: 27em;
+    margin-top: -14em;
+    margin-right: 26em;
+    height: 14em;
+}
+
+.carousel_3_handicraft
+{
+    margin-left: 55em;
+    margin-top: -14em;
+    height: 14em;
+    margin-right: 1em;
+}
