@@ -1,0 +1,122 @@
+.card-left-beauty
+{
+    width: 24em;
+    margin-left:1.4em;
+    margin-bottom: 10em;
+    margin-top: 2em;
+    height:16em;
+    margin-right: 6em;
+}
+
+.card-middle-beauty
+{
+    width: 24rem;
+    margin-left: 28em;
+    margin-bottom: 10em;
+    margin-top: -26em;
+}
+
+.card-right-beauty
+{
+    width: 24rem;
+    margin-left: 54em;
+    margin-bottom: 10em;
+    margin-top: -26em;
+}
+
+.card-body-beauty-1
+{
+    background-image: url('../images/card\ 1.jpg');
+    height:16em;
+    background-position: top;
+}
+
+.card-body-beauty-2
+{
+    background-image: url('../images/card\ 2.jpg');
+    height:16em;
+    background-position: center;
+}
+
+.card-body-beauty-3
+{
+    background-image: url('../images/card\ 3.jpg');
+    height:16em;
+    background-position: center;
+}
+
+
+.card-title-beauty
+{
+    color:rgb(255, 226, 110);
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.card-title-beauty-1
+{
+    color:#415A6D;
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.card-title-beauty-2
+{
+    color:rgb(255, 94, 0);
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.card-text-beauty-1
+{
+    color:rgb(255, 162, 40);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-beauty-2
+{
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-text-beauty-3
+{
+    color:rgb(255, 81, 110);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card-link-beauty-1
+{
+    padding-right: 9em;
+    color:rgb(255, 0, 43);
+    text-decoration: none;
+    font-size: 1.4em;
+    font-weight: bolder;
+}
+
+.card-link-beauty-2
+{
+    padding-right: 9em;
+    color:#31D2F2;
+    text-decoration: none;
+    font-size: 1.4em;
+    font-weight: bolder;
+}
+
+.card-link-beauty-3
+{
+    padding-right: 9em;
+    color:lightgoldenrodyellow;
+    text-decoration: none;
+    font-size: 1.4em;
+    font-weight: bolder;
+    margin-top: 3em;
+}
+
+.btn-group
+{
+    padding-left: 10em;
+}
